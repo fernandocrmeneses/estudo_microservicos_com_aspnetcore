@@ -1,0 +1,13 @@
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Infrastructure\obj\Debug\netcoreapp3.1\CmsProject.Tarefas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Infrastructure\obj\Debug\netcoreapp3.1\CmsProject.Tarefas.Infrastructure.AssemblyInfoInputs.cache
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Infrastructure\obj\Debug\netcoreapp3.1\CmsProject.Tarefas.Infrastructure.AssemblyInfo.cs
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Infrastructure\obj\Debug\netcoreapp3.1\CmsProject.Tarefas.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Infrastructure\bin\Debug\netcoreapp3.1\CmsProject.Tarefas.Infrastructure.deps.json
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Infrastructure\bin\Debug\netcoreapp3.1\CmsProject.Tarefas.Infrastructure.dll
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Infrastructure\bin\Debug\netcoreapp3.1\CmsProject.Tarefas.Infrastructure.pdb
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Infrastructure\obj\Debug\netcoreapp3.1\CmsProject.Tarefas.Infrastructure.dll
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Infrastructure\obj\Debug\netcoreapp3.1\CmsProject.Tarefas.Infrastructure.pdb
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Infrastructure\bin\Debug\netcoreapp3.1\CmsProject.Core.dll
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Infrastructure\bin\Debug\netcoreapp3.1\CmsProject.Core.pdb
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Infrastructure\obj\Debug\netcoreapp3.1\CmsProject.Tarefas.Infrastructure.csproj.AssemblyReference.cache
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Infrastructure\obj\Debug\netcoreapp3.1\CmsProject.Tarefas.Infrastructure.csproj.CopyComplete

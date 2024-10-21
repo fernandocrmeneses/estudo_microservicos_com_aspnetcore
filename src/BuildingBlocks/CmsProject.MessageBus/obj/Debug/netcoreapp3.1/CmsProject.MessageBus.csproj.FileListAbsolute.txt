@@ -1,0 +1,13 @@
+C:\Projetos\cms\CmsProject\src\BuildingBlocks\CmsProject.MessageBus\bin\Debug\netcoreapp3.1\CmsProject.MessageBus.deps.json
+C:\Projetos\cms\CmsProject\src\BuildingBlocks\CmsProject.MessageBus\bin\Debug\netcoreapp3.1\CmsProject.MessageBus.dll
+C:\Projetos\cms\CmsProject\src\BuildingBlocks\CmsProject.MessageBus\bin\Debug\netcoreapp3.1\CmsProject.MessageBus.pdb
+C:\Projetos\cms\CmsProject\src\BuildingBlocks\CmsProject.MessageBus\bin\Debug\netcoreapp3.1\CmsProject.Core.dll
+C:\Projetos\cms\CmsProject\src\BuildingBlocks\CmsProject.MessageBus\bin\Debug\netcoreapp3.1\CmsProject.Core.pdb
+C:\Projetos\cms\CmsProject\src\BuildingBlocks\CmsProject.MessageBus\obj\Debug\netcoreapp3.1\CmsProject.MessageBus.csproj.AssemblyReference.cache
+C:\Projetos\cms\CmsProject\src\BuildingBlocks\CmsProject.MessageBus\obj\Debug\netcoreapp3.1\CmsProject.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\cms\CmsProject\src\BuildingBlocks\CmsProject.MessageBus\obj\Debug\netcoreapp3.1\CmsProject.MessageBus.AssemblyInfoInputs.cache
+C:\Projetos\cms\CmsProject\src\BuildingBlocks\CmsProject.MessageBus\obj\Debug\netcoreapp3.1\CmsProject.MessageBus.AssemblyInfo.cs
+C:\Projetos\cms\CmsProject\src\BuildingBlocks\CmsProject.MessageBus\obj\Debug\netcoreapp3.1\CmsProject.MessageBus.csproj.CoreCompileInputs.cache
+C:\Projetos\cms\CmsProject\src\BuildingBlocks\CmsProject.MessageBus\obj\Debug\netcoreapp3.1\CmsProject.MessageBus.csproj.CopyComplete
+C:\Projetos\cms\CmsProject\src\BuildingBlocks\CmsProject.MessageBus\obj\Debug\netcoreapp3.1\CmsProject.MessageBus.dll
+C:\Projetos\cms\CmsProject\src\BuildingBlocks\CmsProject.MessageBus\obj\Debug\netcoreapp3.1\CmsProject.MessageBus.pdb

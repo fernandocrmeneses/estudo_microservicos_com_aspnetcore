@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CmsProject.Clientes.Application
+build_property.ProjectDir = C:\Projetos\microservicos\estudo_microservicos_com_aspnetcore\src\Clientes\CmsProject.Clientes.Application\

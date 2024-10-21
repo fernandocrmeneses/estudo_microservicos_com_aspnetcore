@@ -1,0 +1,9 @@
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Domain\bin\Debug\netcoreapp3.1\CmsProject.Tarefas.Domain.deps.json
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Domain\bin\Debug\netcoreapp3.1\CmsProject.Tarefas.Domain.dll
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Domain\bin\Debug\netcoreapp3.1\CmsProject.Tarefas.Domain.pdb
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Domain\obj\Debug\netcoreapp3.1\CmsProject.Tarefas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Domain\obj\Debug\netcoreapp3.1\CmsProject.Tarefas.Domain.AssemblyInfoInputs.cache
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Domain\obj\Debug\netcoreapp3.1\CmsProject.Tarefas.Domain.AssemblyInfo.cs
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Domain\obj\Debug\netcoreapp3.1\CmsProject.Tarefas.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Domain\obj\Debug\netcoreapp3.1\CmsProject.Tarefas.Domain.dll
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.Tarefas.Domain\obj\Debug\netcoreapp3.1\CmsProject.Tarefas.Domain.pdb

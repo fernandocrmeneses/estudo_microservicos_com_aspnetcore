@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CmsProject.Sistemas.Domain
+build_property.ProjectDir = C:\Projetos\microservicos\estudo_microservicos_com_aspnetcore\src\Sistemas\CmsProject.Sistemas.Domain\

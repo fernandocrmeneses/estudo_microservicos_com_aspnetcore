@@ -1,0 +1,13 @@
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.ServicosPrestados.Infrastructure\bin\Debug\netcoreapp3.1\CmsProject.ServicosPrestados.Infrastructure.deps.json
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.ServicosPrestados.Infrastructure\bin\Debug\netcoreapp3.1\CmsProject.ServicosPrestados.Infrastructure.dll
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.ServicosPrestados.Infrastructure\bin\Debug\netcoreapp3.1\CmsProject.ServicosPrestados.Infrastructure.pdb
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.ServicosPrestados.Infrastructure\bin\Debug\netcoreapp3.1\CmsProject.Core.dll
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.ServicosPrestados.Infrastructure\bin\Debug\netcoreapp3.1\CmsProject.Core.pdb
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.ServicosPrestados.Infrastructure\obj\Debug\netcoreapp3.1\CmsProject.ServicosPrestados.Infrastructure.csproj.AssemblyReference.cache
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.ServicosPrestados.Infrastructure\obj\Debug\netcoreapp3.1\CmsProject.ServicosPrestados.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.ServicosPrestados.Infrastructure\obj\Debug\netcoreapp3.1\CmsProject.ServicosPrestados.Infrastructure.AssemblyInfoInputs.cache
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.ServicosPrestados.Infrastructure\obj\Debug\netcoreapp3.1\CmsProject.ServicosPrestados.Infrastructure.AssemblyInfo.cs
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.ServicosPrestados.Infrastructure\obj\Debug\netcoreapp3.1\CmsProject.ServicosPrestados.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.ServicosPrestados.Infrastructure\obj\Debug\netcoreapp3.1\CmsProject.ServicosPrestados.Infrastructure.csproj.CopyComplete
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.ServicosPrestados.Infrastructure\obj\Debug\netcoreapp3.1\CmsProject.ServicosPrestados.Infrastructure.dll
+C:\Projetos\CMS\cms\CmsProject\src\CmsProject.ServicosPrestados.Infrastructure\obj\Debug\netcoreapp3.1\CmsProject.ServicosPrestados.Infrastructure.pdb

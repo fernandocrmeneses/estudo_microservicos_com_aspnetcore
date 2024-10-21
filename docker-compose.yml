@@ -1,0 +1,41 @@
+version: '3.9'
+services:
+  mySqlServer:
+    image: mysql:5.7
+    command: --lower_case_table_names=1
+    restart: always
+    environment:
+      MYSQL_DATABASE: 'UsuariosDatabase'
+      MYSQL_ROOT_USER: root
+      MYSQL_ROOT_PASSWORD: 'database-2023'
+ 
+    ports:
+      # <Porta Aberta> : <Porta mySql rodando no container>
+       - "3307:3306"
+    
+    expose:
+      #Portas aberta 3306 dentro do container
+      - '3306'
+      
+    volumes:
+      - ./database-docker/usuariodatabase_DB:/var/lib/mysql/
+      - ./database-docker/mysql_init:/docker-entrypoint-initdb.d
+    
+    container_name: UsuariosDatabaseContainer
+      
+    networks:
+      - autenticacao-usuariodatabase-network
+    
+  autenticacao:
+    image: autenticacaoapi
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+     - "5000:80"
+     
+    networks:
+        - autenticacao-usuariodatabase-network
+networks: 
+  autenticacao-usuariodatabase-network:
+    driver: bridge

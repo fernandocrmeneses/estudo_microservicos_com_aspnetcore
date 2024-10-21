@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CmsProject.Pagamentos.Domain
+build_property.ProjectDir = C:\Projetos\microservicos\estudo_microservicos_com_aspnetcore\src\Pagamentos\CmsProject.Pagamentos.Domain\
